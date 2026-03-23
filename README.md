@@ -4,9 +4,9 @@
 
 Los Angeles, CA
 
-<a href="https://joshuadarron.com"><img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
+<a href="https://joshuadarron.com"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/joshuadarron"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/joshuadarron"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="Twitter" height="30" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/joshuadarron"><img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" height="30" /></a>&nbsp;&nbsp;
 <a href="mailto:phillips@joshuadarron.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" /></a>
 
 ---
@@ -33,7 +33,7 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" />&nbsp;&nbsp;
@@ -41,8 +41,8 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
   <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" alt="OpenAI" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" alt="Ollama" height="40" />&nbsp;&nbsp;
+  <img src="./assets/openai.svg" alt="OpenAI" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/7C7C7C" alt="Ollama" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" height="40" />
 </p>
 
