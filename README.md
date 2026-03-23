@@ -39,7 +39,10 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
   <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" height="40" />&nbsp;&nbsp;
   <img src="./assets/openai.svg" alt="OpenAI" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/ollama/7C7C7C" alt="Ollama" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" height="40" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" height="40" />&nbsp;&nbsp;
+  <img src="./assets/rocketride.png" alt="RocketRide" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/65C89B" alt="LangChain" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="40" />
 </p>
 
 ---
