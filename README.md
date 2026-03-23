@@ -5,7 +5,7 @@
 Los Angeles, CA
 
 <a href="https://joshuadarron.com"><img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/joshuadarron"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/joshuadarron"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/joshuadarron"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="Twitter" height="30" /></a>&nbsp;&nbsp;
 <a href="mailto:phillips@joshuadarron.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" /></a>
 
@@ -36,7 +36,7 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/amazonwebservices.svg" alt="AWS" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" />&nbsp;&nbsp;
