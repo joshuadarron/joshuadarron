@@ -50,11 +50,25 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
 
 ### GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=0969da&text_color=24292f&icon_color=0969da" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=0969da&text_color=24292f" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+</picture>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=transparent&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=24292f&currStreakNum=24292f&sideNums=24292f&dates=57606a" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joshuadarron&theme=transparent&hide_border=true&color=c9d1d9&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&days=7&title_color=58a6ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joshuadarron&theme=transparent&hide_border=true&color=24292f&line=0969da&point=0969da&area_color=0969da&area=true&days=7&title_color=0969da" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joshuadarron&theme=transparent&hide_border=true&days=7&area=true" alt="Contribution Graph" />
+</picture>
