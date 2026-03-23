@@ -11,7 +11,7 @@
 
 ### About
 
-Software Engineer with 7+ years of experience shipping production systems across AI infrastructure, data-intensive backends, and full-stack development. Currently building open-source AI pipeline tooling at **RocketRide** under the Linux Foundation. Previously engineered data intelligence platforms at Aparavi handling petabyte-scale workloads, and built COVID-19 rental assistance systems processing $15K+ per household.
+Software Engineer with 7+ years of experience shipping production systems across AI infrastructure, data-intensive backends, and full-stack development. Currently building open-source AI pipeline tooling at **[RocketRide](https://rocketride.ai/)** under the Linux Foundation. Previously engineered data intelligence platforms at Aparavi handling petabyte-scale workloads, and built COVID-19 rental assistance systems processing $15K+ per household.
 
 Core focus areas: SDK design, multi-agent architectures, streaming pipelines, privacy-aware AI, and developer tooling.
 
