@@ -4,10 +4,11 @@
 
 Los Angeles, CA
 
-[![Website](https://img.shields.io/badge/joshuadarron.com-000?style=flat&logo=google-chrome&logoColor=white)](https://joshuadarron.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuadarron)
-[![Twitter](https://img.shields.io/badge/@joshuadarron-1DA1F2?style=flat&logo=x&logoColor=white)](https://twitter.com/joshuadarron)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phillips@joshuadarron.com)
+[joshuadarron.com](https://joshuadarron.com)
+
+<a href="https://linkedin.com/in/joshuadarron"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/joshuadarron"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="Twitter" height="30" /></a>&nbsp;&nbsp;
+<a href="mailto:phillips@joshuadarron.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" /></a>
 
 ---
 
