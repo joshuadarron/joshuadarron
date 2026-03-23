@@ -49,21 +49,6 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**rocket-reviewer**](https://github.com/joshuadarron/rocket-reviewer) | Multi-agent AI code review running Claude, GPT-4o, and Gemini in parallel as GitHub App reviewers | Python |
-| [**godseye**](https://github.com/joshuadarron/godseye) | Real-time planetary tracking with 3D visualization of flights, ships, trains, satellites, and events | TypeScript |
-| [**filelens**](https://github.com/joshuadarron/filelens) | Privacy-first Chrome extension for viewing CSV, JSON, TXT, and Markdown files locally | JavaScript |
-| [**pc-monitor**](https://github.com/joshuadarron/pc-monitor) | Hardware monitoring app tracking GPU, CPU, RAM, and thermal metrics | C++ |
-| [**jupysaurus**](https://github.com/joshuadarron/jupysaurus) | Docusaurus site rendering Jupyter notebooks via Quarto with live Python execution and RAG chatbot | JavaScript |
-| [**aparavi-breach-reporter**](https://github.com/joshuadarron/aparavi-breach-reporter) | 1st Place Aparavi Hackathon — AI-powered breach assessment using OpenAI | TypeScript |
-| [**mongooQ**](https://github.com/joshuadarron/mongooQ) | MongoDB queue with visibility windows and dead letter support | JavaScript |
-| [**devassist**](https://github.com/joshuadarron/devassist) | AI-powered Chrome DevTools extension using Gemini Nano APIs | TypeScript |
-
----
-
 ### GitHub Stats
 
 <p>
