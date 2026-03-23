@@ -51,6 +51,12 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
 </picture>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=transparent&hide_border=true&ring=58a6ff&fire=cf222e&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=transparent&hide_border=true&ring=0969da&fire=f0883e&currStreakLabel=000000&currStreakNum=000000&sideLabels=24292f&sideNums=24292f&dates=57606a" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&custom_title=GitHub%20Stats&hide_rank=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=000000&text_color=24292f&icon_color=0969da&custom_title=GitHub%20Stats&hide_rank=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&custom_title=GitHub%20Stats&hide_rank=true" alt="GitHub Stats" />
@@ -59,10 +65,4 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=10&title_color=ffffff&text_color=c9d1d9" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=10&title_color=000000&text_color=24292f" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=10" alt="Top Languages" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=transparent&hide_border=true&ring=58a6ff&fire=cf222e&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=transparent&hide_border=true&ring=0969da&fire=f0883e&currStreakLabel=000000&currStreakNum=000000&sideLabels=24292f&sideNums=24292f&dates=57606a" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joshuadarron&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </picture>
