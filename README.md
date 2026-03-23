@@ -1,5 +1,3 @@
-# Joshua Darron Phillips
-
 **Software Engineer** | AI Pipelines, Data-Intensive Backends, Full-Stack Systems
 
 <a href="https://joshuadarron.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
