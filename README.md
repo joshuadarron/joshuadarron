@@ -42,7 +42,7 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
   <a href="https://gemini.google.com/"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" height="40" /></a>&nbsp;&nbsp;
   <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/65C89B" alt="LangChain" height="40" /></a>&nbsp;&nbsp;
   <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" height="40" /></a>&nbsp;&nbsp;
-  <a href="https://rocketride.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rocketride-light.png" /><source media="(prefers-color-scheme: light)" srcset="./assets/rocketride.png" /><img src="./assets/rocketride.png" alt="RocketRide" height="40" /></picture></a>
+  <a href="https://rocketride.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/rocketride-light.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/rocketride.png" /><img src="./assets/rocketride.png" alt="RocketRide" height="40" /></picture></a>
 </p>
 
 ---
