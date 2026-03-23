@@ -3,7 +3,7 @@
 <a href="https://joshuadarron.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/joshuadarron"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;
 <a href="https://x.com/joshuadarron"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000" /><img src="https://cdn.simpleicons.org/x/808080" alt="X" height="30" /></picture></a>&nbsp;&nbsp;
-<a href="mailto:phillips@joshuadarron.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" /></a>
+<a href="mailto:phillips@joshuadarron.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/email-light.svg" /><img src="./assets/email-light.svg" alt="Email" height="30" /></picture></a>
 
 ---
 
