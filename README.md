@@ -19,46 +19,27 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
 
 ---
 
-### Tech Stack
-
-<h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" />
-</p>
-
-<h4 align="center">Frontend</h4>
-<p align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="40" />
-</p>
-
-<h4 align="center">Backend & Data</h4>
-<p align="center">
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="MSSQL" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="40" />
-</p>
-
-<h4 align="center">Infrastructure & Tools</h4>
-<p align="center">
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" />
-</p>
-
-<h4 align="center">AI & LLMs</h4>
-<p align="center">
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/ollama/FFFFFF" alt="Ollama" height="40" />&nbsp;&nbsp;
