@@ -48,11 +48,9 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
 
 ---
 
-### GitHub Stats
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joshuadarron&theme=transparent&hide_border=true&bg_color=00000000&color=c9d1d9&line=58a6ff&point=39d353&area_color=58a6ff&area=true&days=7&title_color=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joshuadarron&theme=transparent&hide_border=true&bg_color=00000000&color=24292f&line=0969da&point=1a7f37&area_color=0969da&area=true&days=7&title_color=0969da" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joshuadarron&theme=transparent&hide_border=true&bg_color=00000000&color=c9d1d9&line=39d353&point=39d353&area_color=39d353&area=true&days=7&title_color=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=joshuadarron&theme=transparent&hide_border=true&bg_color=00000000&color=24292f&line=1a7f37&point=1a7f37&area_color=1a7f37&area=true&days=7&title_color=000000" />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joshuadarron&theme=transparent&hide_border=true&bg_color=00000000&days=7&area=true" alt="Contribution Graph" />
 </picture>
 
