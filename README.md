@@ -21,44 +21,49 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
 
 ### Tech Stack
 
-**Languages**
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="40" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="40" />
+</p>
 
-**Frontend**
+<h4 align="center">Backend & Data</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="Node.js" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="MSSQL" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="40" />
+</p>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<h4 align="center">Infrastructure & Tools</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" alt="AWS" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/neovim/57A143" alt="Neovim" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="40" />
+</p>
 
-**Backend & Data**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Infrastructure & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-**AI & LLMs**
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000?style=flat&logo=ollama&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+<h4 align="center">AI & LLMs</h4>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/FFFFFF" alt="Ollama" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" height="40" />
+</p>
 
 ---
 
