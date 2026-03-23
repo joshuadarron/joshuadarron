@@ -58,9 +58,9 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=ffffff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=000000&text_color=24292f" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=10&title_color=ffffff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=10&title_color=000000&text_color=24292f" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=10" alt="Top Languages" />
 </picture>
 
 <picture>
