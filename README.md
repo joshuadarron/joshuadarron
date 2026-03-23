@@ -4,8 +4,7 @@
 
 Los Angeles, CA
 
-[joshuadarron.com](https://joshuadarron.com)
-
+<a href="https://joshuadarron.com"><img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/joshuadarron"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/joshuadarron"><img src="https://cdn.simpleicons.org/x/FFFFFF" alt="Twitter" height="30" /></a>&nbsp;&nbsp;
 <a href="mailto:phillips@joshuadarron.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" /></a>
