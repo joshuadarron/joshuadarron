@@ -53,9 +53,9 @@ Core focus areas: SDK design, multi-agent architectures, streaming pipelines, pr
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff&custom_title=GitHub%20Stats" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=000000&text_color=24292f&icon_color=0969da&ring_color=0969da&custom_title=GitHub%20Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&custom_title=GitHub%20Stats&hide_rank=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=000000&text_color=24292f&icon_color=0969da&custom_title=GitHub%20Stats&hide_rank=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=joshuadarron&show_icons=true&theme=transparent&hide_border=true&count_private=true&custom_title=GitHub%20Stats&hide_rank=true" alt="GitHub Stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuadarron&layout=compact&theme=transparent&hide_border=true&langs_count=10&title_color=ffffff&text_color=c9d1d9" />
