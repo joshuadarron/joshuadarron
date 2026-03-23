@@ -4,9 +4,9 @@
 
 Los Angeles, CA
 
-<a href="https://joshuadarron.com"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
+<a href="https://joshuadarron.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/joshuadarron"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/joshuadarron"><img src="https://cdn.simpleicons.org/x/1DA1F2" alt="Twitter" height="30" /></a>&nbsp;&nbsp;
+<a href="https://x.com/joshuadarron"><img src="https://cdn.simpleicons.org/x/808080" alt="X" height="30" /></a>&nbsp;&nbsp;
 <a href="mailto:phillips@joshuadarron.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" /></a>
 
 ---
