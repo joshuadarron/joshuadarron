@@ -1,4 +1,4 @@
-<span style="font-size: 1.25em;"><b>Software Engineer</b> | AI Pipelines, Data-Intensive Backends, Full-Stack Systems</span>
+<span style="font-size: 2.40em;"><b>Software Engineer</b> | AI Pipelines, Data-Intensive Backends, Full-Stack Systems</span>
 
 <a href="https://joshuadarron.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/joshuadarron"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;
@@ -9,9 +9,9 @@
 
 <h2>About</h2>
 
-<span style="font-size: 1.75em;">Software Engineer shipping production systems across AI infrastructure, data-intensive backends, and full-stack development. Currently building open-source AI pipeline tooling at <b><a href="https://rocketride.ai/">RocketRide</a></b> under the Linux Foundation. Previously engineered data intelligence platforms at Aparavi handling petabyte-scale workloads, and built COVID-19 rental assistance systems processing $15K+ per household.</span>
+<span style="font-size: 2.25em;">Software Engineer shipping production systems across AI infrastructure, data-intensive backends, and full-stack development. Currently building open-source AI pipeline tooling at <b><a href="https://rocketride.ai/">RocketRide</a></b> under the Linux Foundation. Previously engineered data intelligence platforms at Aparavi handling petabyte-scale workloads, and built COVID-19 rental assistance systems processing $15K+ per household.</span>
 
-<span style="font-size: 1.75em;">Core focus areas: SDK design, multi-agent architectures, streaming pipelines, privacy-aware AI, and developer tooling.</span>
+<span style="font-size: 2.25em;">Core focus areas: SDK design, multi-agent architectures, streaming pipelines, privacy-aware AI, and developer tooling.</span>
 
 ---
 
