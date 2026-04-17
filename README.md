@@ -1,4 +1,4 @@
-<h1><b>Software Engineer</b> | AI Pipelines, Data-Intensive Backends, Full-Stack Systems</h1>
+<h4><b>Software Engineer</b> | AI Pipelines, Data-Intensive Backends, Full-Stack Systems</h4>
 
 <a href="https://joshuadarron.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" height="30" /></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/joshuadarron"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;
